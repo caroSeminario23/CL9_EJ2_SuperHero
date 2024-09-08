@@ -9,3 +9,6 @@
 
 ### Video de ejecución
 [Ingresa aquí para ver el video](https://photos.app.goo.gl/eUXjR58iPimsiK5YA)
+
+### Ícono de la aplicación
+![imagen_3](vista_icono.jpg)
